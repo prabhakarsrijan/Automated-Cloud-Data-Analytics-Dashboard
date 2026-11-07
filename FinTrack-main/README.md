@@ -96,5 +96,5 @@ Powered by Groq API with LLaMA 3.3 70B model. Analyzes real transaction data and
 
 ## 👨‍💻 Author
 
-**Satyam** — Final Year Computer Science
+**Srijan Prabhakar** — Final Year Computer Science
 GitHub: [SatyamB476](https://github.com/SatyamB476)
